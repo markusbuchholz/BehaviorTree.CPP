@@ -8,6 +8,9 @@
 
 # BehaviorTree.CPP
 
+### This a copy of orginal repository but includes also course specific programs!
+### by Markus Buchholz for The ConstructSim
+
 <p align="center"><img src="docs/images/ReadTheDocs.png"></p>
 
 This  __C++ 14__ library provides a framework to create BehaviorTrees.
